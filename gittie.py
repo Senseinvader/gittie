@@ -12,3 +12,7 @@ def joke():
     print('Why the chicken crose the road?')
     input()
     print('To f*** your mother!')
+
+
+def shout():
+    print('AAAAAAAAAAA!!!!')
