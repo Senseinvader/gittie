@@ -1,10 +1,11 @@
 def introduce():
-    print("HELLO, I'm grunt")
+    print("HELLO, I'm gittie")
+    print('And goodbye!')
 
 
 def add(a,b):
     c = a + b
-return c    
+return c
 
 
 def joke():
