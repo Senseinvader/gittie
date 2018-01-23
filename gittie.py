@@ -15,4 +15,8 @@ def joke():
 
 
 def shout():
+<<<<<<< Updated upstream
     print('AAAAAAAAAAA!!!!')
+=======
+    print('Aaaaarghh!')
+>>>>>>> Stashed changes
